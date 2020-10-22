@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<style>.center {
+  text-align: center;
+  border: 3px solid black;}
 h1{
 background-color:#483D8B;
 color:white;
